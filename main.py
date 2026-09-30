@@ -69,3 +69,4 @@ def task1(init_catalogue = "task1_directory/walk_here"):
                 print("Ничего не менялось")
 
 task1()
+
